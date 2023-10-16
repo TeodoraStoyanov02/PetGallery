@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+img {
+  width: 180px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.pets-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.pet-item {
+  margin: 15px;
+}
